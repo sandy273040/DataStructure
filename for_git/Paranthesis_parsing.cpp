@@ -3,7 +3,6 @@
 using namespace std;
 
 int main(){
-    //char a[100] = {};
     string s; vector<char> stack; int error = 0;
     cout << "輸入字串";
     cin >> s;
