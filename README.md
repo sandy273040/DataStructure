@@ -31,5 +31,5 @@ DataStructureRepository<br />
 * Best Time to Buy and Sell Stock
 * Paranthesis Parsing using stack
 
-##Note
+## Note
 The programs in this repository also implement text file reading function to read txt files for testing. However, since the program is developed under MacOS, the end of line character may be needed to modified if Windows is used.
