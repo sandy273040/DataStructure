@@ -5,7 +5,7 @@
 
 DataStructureRepository<br />
 |<br />
---------------------------Graph<br />
+--------------------------Graph-graph and Max Cut Min Flow<br />
 |<br />
 --------------------------BST-Binary Search Tree and Huffman Coding Tree<br />
 |<br />
